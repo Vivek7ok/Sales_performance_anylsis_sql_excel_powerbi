@@ -1,6 +1,6 @@
 select gender, sum(purchase_amount) 
 from customer_sales
-group by gender;
+group by gender; 
 
 select customer_id, purchase_amount 
 from customer_sales
