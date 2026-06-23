@@ -180,7 +180,7 @@ The findings provide valuable insights that support business growth, profitabili
 
 ## Dashboard Preview
 
-![Dashboard Preview](Visualisation/Image.png)
+![Dashboard Preview](Visualization/Image.png)
 
 ---
 
