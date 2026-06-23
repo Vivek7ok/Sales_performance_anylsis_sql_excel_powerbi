@@ -60,6 +60,7 @@ Sales_Performance_Analysis_SQL_Python_PowerBI/
 ├── README.md
 │
 └── Report.docx
+
 ---
 
 ## Tools & Technologies
@@ -187,13 +188,3 @@ The findings provide valuable insights that support business growth, profitabili
 
 **Vivek Mali**
 
-Aspiring Data Analyst
-
-### Skills
-
-* SQL
-* Python
-* Power BI
-* Data Visualization
-* Exploratory Data Analysis
-* Business Intelligence
